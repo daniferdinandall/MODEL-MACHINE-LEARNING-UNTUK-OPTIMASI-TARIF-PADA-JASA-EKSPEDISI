@@ -1,0 +1,5 @@
+1. periksa kata kota dan kab, cari jika dalam 1 baris ada 2 kata tersebut, baik sama atau beda
+  contoh dalam satu baris "kota a kota a" atau "kab a kota b" atau "kab a kota b" [ceklis]
+2. cari solusinya supaya mudah ketika pencocokan data dengan dataset kordinat [ceklis]
+3. ada masalah di latitude yang bukan diantara -90 - 90 [ceklis]
+4. coba coba regresi linear berganda dan model lainnya
