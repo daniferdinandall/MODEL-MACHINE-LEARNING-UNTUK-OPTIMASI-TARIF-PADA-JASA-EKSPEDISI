@@ -1,0 +1,3 @@
+cek data nol di htnb
+isi na harga barang
+ambil status kota yang tidak ada
